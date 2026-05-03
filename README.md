@@ -1,7 +1,7 @@
 # Hi, I'm Alessandro Di Giovanni 👋
 **Data Scientist | AI Specialist | Senior Mechanical Engineer**
 
-✉️ [Email](mailto:alessandrodgv26@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/alessandrodgv)
+✉️ [Email](mailto:alessandrodgv26@gmail.com) | 🔗 [LinkedIn](www.linkedin.com/in/alessandro-di-giovanni-)
 
 ---
 
