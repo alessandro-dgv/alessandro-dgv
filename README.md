@@ -1,5 +1,5 @@
 # Hi, I'm Alessandro Di Giovanni 👋
-**Data Scientist | AI Specialist | Former Senior Mechanical Engineer**
+**Data Scientist | AI Specialist | Senior Mechanical Engineer**
 
 ✉️ [Email](mailto:alessandrodgv26@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/alessandrodgv)
 
