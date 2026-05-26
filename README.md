@@ -13,7 +13,7 @@ I bridge the gap between a rigorous engineering-grade analytical mindset and mod
 ### 🛠️ Technical Toolkit
 * **Core Tech:** Python (NumPy, Pandas), SQL, LLM Integration & AI Agents.
 * **Methodology:** Technical analysis, advanced problem solving, and data management.
-* **Tools:** Git, GitHub, Microsoft Excel, Google Sheets.
+* **Tools:** VSCode, Git, GitHub, Google Sheets.
 
 ### 🚀 Current Focus
 Developing advanced Data & AI projects, focusing on machine learning applications and data-driven optimization.
