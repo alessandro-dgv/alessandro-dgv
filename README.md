@@ -11,7 +11,7 @@ After **7+ years** of managing and analyzing complex engineering projects in hig
 I bridge the gap between a rigorous engineering-grade analytical mindset and modern data stacks to extract actionable insights and build scalable intelligent solutions.
 
 ### 🛠️ Technical Toolkit
-* **Core Tech:** Python (NumPy, Pandas), SQL, LLM Integration.
+* **Core Tech:** Python (NumPy, Pandas), SQL, LLM Integration & AI Agents.
 * **Methodology:** Technical analysis, advanced problem solving, and data management.
 * **Tools:** Git, GitHub, Microsoft Excel, Google Sheets.
 
