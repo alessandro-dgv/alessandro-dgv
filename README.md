@@ -15,5 +15,6 @@ I bridge the gap between a rigorous engineering-grade analytical mindset and mod
 * **Methodology:** Technical analysis, advanced problem solving, and data management.
 * **Tools:** VSCode, Git, GitHub, Google Sheets.
 
-### 🚀 Current Focus
-Developing advanced Data & AI projects, focusing on machine learning applications and data-driven optimization.
+### 🚀 Current Focus & Projects
+* **Co-Founder of [Pizzindex](https://pizzindex.vercel.app/):** Developing an innovative, data-driven platform focused on pizza pricing analytics and market trends.
+* Developing advanced Data & AI projects, focusing on machine learning applications and data-driven optimization.
